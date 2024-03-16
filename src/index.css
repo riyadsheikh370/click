@@ -1,0 +1,16 @@
+
+.one{
+    background: url(../src/assets/one.jpg) no-repeat center/ cover;
+    height: 650px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.onb{
+  background-color: beige;
+}
+
+.on img{
+    width: 50px;
+    height: 80px;
+}
